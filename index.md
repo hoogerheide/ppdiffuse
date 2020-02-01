@@ -1,6 +1,8 @@
 <head>
-    <meta http-equiv="Refresh" content="7; url=https://pages.nist.gov/ppdiffuse" />
+    <meta http-equiv="Refresh" content="1; url=https://pages.nist.gov/ppdiffuse" />
 </head>
-<body>
-    <p>Redirecting to <a href="https://pages.nist.gov/ppdiffuse">this link</a>.</p>
-</body>
+
+
+## Redirecting to [https://pages.nist.gov/ppdiffuse](https://pages.nist.gov/ppdiffuse)
+
+
